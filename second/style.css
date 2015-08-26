@@ -1,0 +1,65 @@
+html, body {
+	background-color: lightgray;
+}
+#wrapper {
+	width: 600px;
+	margin: auto;
+	background-color: white;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.text {
+	padding: 20px;
+}
+p {
+	font-family: Arial;
+	margin-bottom: 35px;
+}
+.redbox {
+	background-color: red;
+	height: 40px;
+	width: 100px;
+	text-align: center;
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+	display: inline-block;
+}
+.bluebox {
+	background-color: blue;
+	height: 40px;
+	width: 100px;
+	text-align: center;
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 10px;
+}
+#wrapper2 {
+	width: 600px;
+	margin: auto;
+	background-color: white;
+	margin-bottom: 30px;
+}
+.container {
+	padding: 20px;
+}
+#wrapper3 {
+	width: 750px;
+	margin: auto;
+}
+footer {
+	background-color: black;
+	width: 100%;
+	height: 80px;
+}
+li {
+	color: white;
+	display: inline;
+	font-family: Arial;
+	margin: 10px;
+}
+ul {
+	float: right;
+}
